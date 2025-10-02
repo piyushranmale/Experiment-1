@@ -1,0 +1,5 @@
+#include <stdio.h>
+int main() {
+    printf("Mon\tTue\tWed\tThu\tFri\tSat\tSun\n");
+    return 0;
+}
